@@ -1,0 +1,13 @@
+#Items \/
+item.advEnderTeleport.name=Продвинутый телепорт края
+item.basicEnderTeleport.name=Телепорт края
+item.enderResource_1.name=Обсидиановый самородок
+item.enderResource_0.name=Обсидиановый корпус
+
+#Other text \/
+text.advEnderTeleport.lore.1=Shift + правый клик для привязки устройства
+text.advEnderTeleport.lore.2=Правый клик для телепортации
+text.basicEnderTeleport.lore.1=Правый клик для телепортации на спавн.
+text.basicEnderTeleport.lore.2=Иногда это может работать не так, как нужно.
+text.basicEnderTeleport.lore.3=Чтобы исправить это, вручную укажите точку спавна
+text.basicEnderTeleport.lore.4= командой "/setworldspawn"

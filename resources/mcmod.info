@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderteleports",
+  "name": "Ender Teleports",
+  "description": "Teleports.",
+  "version": "1.0.0.0",
+  "mcversion": "1.7.10",
+  "url": "coming soon",
+  "updateUrl": "",
+  "authorList": ["mrAppleXZ"],
+  "credits": "i",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

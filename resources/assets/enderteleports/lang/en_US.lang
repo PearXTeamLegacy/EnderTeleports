@@ -1,0 +1,13 @@
+#Items \/
+item.advEnderTeleport.name=Advanced Ender Teleport
+item.basicEnderTeleport.name=Ender Teleport
+item.enderResource_1.name=Obsidian Nugget
+item.enderResource_0.name=Obsidian Case
+
+#Other text \/
+text.advEnderTeleport.lore.1=Shift + right-click to link device.
+text.advEnderTeleport.lore.2=Right-click to teleport.
+text.basicEnderTeleport.lore.1=Right-click to teleport on spawn.
+text.basicEnderTeleport.lore.2=Sometimes it may not work as it should.
+text.basicEnderTeleport.lore.3=To fix this, manually select a point with
+text.basicEnderTeleport.lore.4= the command "/setworldspawn"
