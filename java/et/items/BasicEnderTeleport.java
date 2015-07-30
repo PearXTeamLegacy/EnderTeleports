@@ -26,6 +26,10 @@ public class BasicEnderTeleport extends Item
 	
 	public ItemStack onItemRightClick(ItemStack item, World w, EntityPlayer p)
 	{
+		if (p.dimension != 0)
+		{
+			p.travelToDimension(0);
+		}
 		ChunkCoordinates c = new ChunkCoordinates();
 		c = w.getSpawnPoint();
 		p.setPositionAndUpdate(c.posX, c.posY, c.posZ);
